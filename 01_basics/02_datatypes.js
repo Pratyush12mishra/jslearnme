@@ -20,4 +20,4 @@ let state;
 // object 
 
 console.log(typeof"pratty")
-console.log()
+console.log(null)
